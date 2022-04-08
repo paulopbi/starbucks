@@ -173,7 +173,6 @@ h2 {
   background-size: cover;
 }
 
-
 /*area2*/
 
 .area2 {
@@ -236,7 +235,7 @@ h2 {
 .area4 {
   display: grid;
   grid-template-columns: 450px 1fr;
-  background-color: #E8E9EE;
+  background-color: #e8e9ee;
 }
 
 .area4--content {
@@ -250,7 +249,7 @@ h2 {
 
 .area4--img1 {
   background-position: left;
-  background-image: url('../assets/bg3.jpg');
+  background-image: url("../assets/bg3.jpg");
 }
 
 /*area5*/
@@ -259,7 +258,7 @@ h2 {
   height: 600px;
   background-position: center;
   background-size: cover;
-  background-image: url('../assets/bg4.jpg');
+  background-image: url("../assets/bg4.jpg");
 }
 
 /*footer*/
