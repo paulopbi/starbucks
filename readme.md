@@ -1,10 +1,10 @@
 # Projeto Starbucks
 
 <p align="center">
-<a href="" target="_blank">Linkedin </a> •
-<a href="" target="_blank">Instagram</a> •
-<a href="" target="_blank">Github</a> •
-<a href="" target="_blank">Página Completa</a> 
+<a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin </a> •
+<a href="https://www.instagram.com/paulopbi_/" target="_blank">Instagram</a> •
+<a href="https://github.com/Paulpbi" target="_blank">Github</a> •
+<a href="https://paulpbi.github.io/starbucks/" target="_blank">Página Completa</a> 
 </p>
 
 Um website inspirado na marca starbucks.
